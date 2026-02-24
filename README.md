@@ -1,3 +1,5 @@
+# So currently this is my learning phase of git and github
+
 # New project 
 
 # created by yashu yadav
